@@ -1,0 +1,22 @@
+.navbar {
+    background-color: rgba(0, 0, 0, 0.9);
+  }
+  
+  /* .navbar-nav {
+    margin: 20px auto;
+  }
+   */
+  .navbar-brand {
+    background-color: rgba(1, 172, 142, 1);
+  }
+  
+  .navbar-nav a {
+    text-decoration: none;
+    padding: 25px;
+    font-weight: 600;
+    color: rgba(7, 173, 240, 1);
+  }
+  
+  .navbar-nav a:hover {
+    color: rgb(255, 255, 255);
+  }
